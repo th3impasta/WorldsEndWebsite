@@ -33,3 +33,14 @@ body {
   clear: both;
   display: table;
 }
+
+@media only screen and (max-width: 768px) {
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
