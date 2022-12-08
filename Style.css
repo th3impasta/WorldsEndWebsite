@@ -1,12 +1,21 @@
 body {
-	background-color: #052840;
-	border-style: ridge;
-	border-color: coral;
+	background-color: black;
+	border-style: solid;
+	border-color: royalblue;
 	border-width: 7px;
+	color: white;
+	font-family: Helvetica, Arial, sans-serif;
+
 }
+
+h1 {
+	color: darkblue;
+}
+
 
 * {
 	box-sizing: border-box;
+	border-radius: 25px;
 }
 
 .col-1 {width: 8.33%;}
@@ -25,7 +34,9 @@ body {
 [class*="col-"] {
   float: left;
   padding: 15px;
-  border: 1px solid red;
+  border-style: solid;
+  border-color: royalblue;
+  border-width: 7px;
 }
 
 .row::after {
