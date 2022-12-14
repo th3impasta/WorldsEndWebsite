@@ -10,14 +10,27 @@
 <div class="row">
 	<div class="col-3">
 		<ul>
-			<li> <a href="https://th3impasta300.github.io"> Home page </a> </li>
-			<li> <a href="https://th3impasta300.github.io/Myself.html"> About me </a> </li>
+			<li> <a href="https://th3impasta.github.io"> Home page </a> </li>
+			<li> <a href="https://th3impasta.github.io/Myself.html"> About me </a> </li>
 		</ul>
 	</div>
 	
 	<div class="col-9">
 		<h1> About Me </h1>
-		<p> we will murder you</p>
+		<ul>
+			<li>Th3impasta </li>
+			<li>He/Him </li>
+			<li>Bisexual </li>
+			<li>Contacts 
+				<ul>
+					<li> Email at: th3impasta300@gmail.com</li>
+				</ul>
+			</li>
+		</ul>
+		<p>
+				I make cool things and horrible minecraft mods. 
+				These minecraft mods can be found at the mod section in this website
+		</p>
 	</div>
 </div>
 
