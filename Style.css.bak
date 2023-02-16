@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-	color: darkblue;
+	color: royalblue;
 }
 
 
@@ -54,4 +54,9 @@ h1 {
 img {
   max-width: 100%;
   height: auto;
+}
+
+a	{
+	color: royalblue;
+	text-decoration: none;
 }
